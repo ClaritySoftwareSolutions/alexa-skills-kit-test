@@ -1,0 +1,6 @@
+dist: trusty
+
+language: java
+
+script: mvn clean verify
+
