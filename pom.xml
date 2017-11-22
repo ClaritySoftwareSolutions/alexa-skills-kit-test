@@ -5,7 +5,7 @@
 	<groupId>uk.co.claritysoftware</groupId>
 	<artifactId>alexa-skills-kit-test</artifactId>
 	<packaging>jar</packaging>
-	<version>1.0.0-SNAPSHOT</version>
+	<version>1.0.1-SNAPSHOT</version>
 
 	<name>Alexa Skills Kit Test Support Library</name>
 	<description>Java library to provide test support for objects created with the Alexa Skills Kit</description>
